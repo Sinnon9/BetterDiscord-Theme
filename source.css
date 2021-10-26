@@ -40,46 +40,46 @@
   --window-button-close: #ff605c; }
 
 .theme-dark {
-  --main-color: transparent;
-  --main-alt: transparent;
-  --server-color: transparent;
-  --status-picker-color: transparent;
-  --sidebar-panel-color: transparent;
-  --chat-color: transparent;
-  --message-color: transparent;
-  --message-color-hover: transparent;
-  --message-color-alt: transparent;
-  --attachment-color: transparent;
-  --main-textarea-color: transparent;
-  --main-textarea-color-alt: transparent;
-  --main-textarea-border: transparent;
-  --typing-color: transparent;
-  --popout-color: transparent;
-  --popout-color-alt: transparent;
-  --popout-header-border: transparent;
-  --separator-color: transparent;
-  --input-color: transparent;
-  --input-border-color: transparent;
-  --tab-border-color: transparent;
-  --menu-item-hover: transparent;
-  --menu-item-select: transparent;
-  --menu-item-text-color: transparent;
+  --main-color: #16171a;
+  --main-alt: #0f1012;
+  --server-color: #232327;
+  --status-picker-color: #181a1d;
+  --sidebar-panel-color: #111114;
+  --chat-color: #202225;
+  --message-color: #292d30;
+  --message-color-hover: #303438;
+  --message-color-alt: #1c1e21;
+  --attachment-color: rgb(0,0,0,0.325);
+  --main-textarea-color: #303338;
+  --main-textarea-color-alt: #3b3f42;
+  --main-textarea-border: #3e434a;
+  --typing-color: rgba(32,34,37,0.9);
+  --popout-color: #2c2f33;
+  --popout-color-alt: #202225;
+  --popout-header-border: #444;
+  --separator-color: #444;
+  --input-color: rgba(255,255,255,0.075);
+  --input-border-color: #444;
+  --tab-border-color: #fff;
+  --menu-item-hover: rgba(255,255,255,0.075);
+  --menu-item-select: rgba(255,255,255,0.1);
+  --menu-item-text-color: #aaa;
   --card-color: transparent;
-  --card-color-hover: transparent;
-  --card-color-alt: transparent;
-  --card-color-alt-hover: transparent;
-  --card-border-color: transparent;
-  --card-header-text-color: transparent;
-  --button-link-color: transparent;
-  --button-link-text-color: transparent;
-  --slider-color: transparent;
-  --switch-knob-color: transparent;
-  --switch-slider-color: transparent;
-  --md-ripple-color: transparent;
-  --emoji-category-header: transparent;
-  --scrollbar-color: transparent;
-  --window-button:transparent;
-  --window-button-inactive: transparent; }
+  --card-color-hover: #292b2f;
+  --card-color-alt: #2a2c30;
+  --card-color-alt-hover: #35383d;
+  --card-border-color: #444;
+  --card-header-text-color: #dcddde;
+  --button-link-color: 255,255,255;
+  --button-link-text-color: #fff;
+  --slider-color: #4f545c;
+  --switch-knob-color: #777;
+  --switch-slider-color: rgba(65,65,65,0.65);
+  --md-ripple-color: 255,255,255;
+  --emoji-category-header: rgba(44,47,51,0.95);
+  --scrollbar-color: 255,255,255;
+  --window-button: rgba(255,255,255,0.1);
+  --window-button-inactive: rgba(255,255,255,0.05); }
 
 .theme-light {
   --main-color: #e8eaeb;
